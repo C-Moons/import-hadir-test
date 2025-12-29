@@ -1,0 +1,2 @@
+*File harus berupa file Excel (.xls atau .xlsx)
+
