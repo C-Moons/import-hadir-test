@@ -74,7 +74,6 @@ public class ImportAbsenStepDefinition {
         String projectDir = System.getProperty("user.dir");
         String filePath = projectDir + "/src/test/resources/data/" + upload_file;
         importAbsen.uploadExcel(filePath);
-
     }
 
     @And("Tekan tombol import.")
