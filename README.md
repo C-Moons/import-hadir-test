@@ -49,7 +49,7 @@ Struktur direktori proyek ini diatur untuk memisahkan kode sumber aplikasi, peng
 │           │   ├── DATA_ABSEN_HADIR.xlsx
 │           │   ├── DATA_STATUS_USER.xlsx
 │           │   ├── DATA_STRUKTUR_USER.xlsx
-│           │   └── Template_Cuti_Hadir.xlsx
+│           │   └── Template_Cti_Hadir.xlsx
 │           └── features/         # File Gherkin .feature (deskripsi skenario tes)
 │               ├── ImportAbsen.feature
 │               ├── ImportCuti.feature
@@ -86,3 +86,19 @@ Proyek ini dibangun di atas tumpukan teknologi berikut:
 *   **Desain Pola:** Page Object Model (POM)
 
 Kerangka kerja ini dirancang untuk menyediakan solusi pengujian automasi yang kuat dan dapat diandalkan untuk proses impor data.
+
+## Contoh Laporan dan Screenshot
+
+Berikut adalah beberapa contoh gambar dari dokumentasi dan laporan bug.
+
+**Environment**
+![Environment](screenshots/Environmet.png)
+
+**Report**
+![Report](screenshots/Report.png)
+
+**Screenshot Bug**
+![Screenshot bug](screenshots/Screenshot%20bug.png)
+
+**Screenshot Sukses Test Case**
+![Screenshot sukses test case](screenshots/Screenshot%20sukses%20test%20case.png)
